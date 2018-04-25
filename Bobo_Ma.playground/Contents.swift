@@ -3,3 +3,5 @@
 import UIKit
 
 var str = "Hello,Bobo_Ma"
+
+print(str)
